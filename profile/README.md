@@ -1,5 +1,5 @@
 <pre>
-  Natural Language Programming (NLP) is the practice of using human language, 
+  Natural Language Programming is the practice of using human language, 
   such as English, to instruct a computer system or programming environment, 
   akin to traditional code instructing a processor. It involves writing concise, 
   natural language sentences or phrases that describe the desired program behavior, 
