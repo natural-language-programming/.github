@@ -7,3 +7,4 @@
   By interpreting and executing natural language statements as instructions, Natural 
   Language Programming bridges the gap between human-readable and machine-executable code.
 </pre>
+Remember, when you instruct a model you need to use words in their most common meaning.
